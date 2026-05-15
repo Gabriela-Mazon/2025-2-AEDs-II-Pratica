@@ -1,6 +1,6 @@
 # 📚 Algoritmo e Estrutura de Dados II Prática - 2025.2
 
-Repositório destinado a todos os trabalhos, materiais de estudo e anotações da disciplina de Algoritmo e Estrutura de Dados II (Teoria).
+Repositório destinado a todos os trabalhos, materiais de estudo e anotações da disciplina de Algoritmo e Estrutura de Dados II (Prática).
 
 ---
 
